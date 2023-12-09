@@ -1,0 +1,4 @@
+*.swp
+*.pyc
+*.gdb_history
+*~
